@@ -1,0 +1,18 @@
+.tabs .indicator {
+ background-color: white;
+}
+
+.tabs .tab a {
+ color: white;
+}
+
+.topo-fixo {
+ position: fixed;
+ top: 0;
+ width: 100%;
+ z-index: 2;
+}
+
+.content {
+padding-top: 120px;
+}
